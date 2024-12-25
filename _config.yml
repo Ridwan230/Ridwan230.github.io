@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hi! It's Anuva"
+title                    : "Hi! It's Ridwan"
 title_separator          : "-"
-name                     : &name "Samiha Shafiq Anuva"
+name                     : &name "Ridwan Mahbub"
 description              : &description "personal description"
-url                      : https://samihanuva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ridwanmahbub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "samihanuva/samihanuva.github.io"
+repository               : "Ridwan230/ridwanmahbub.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
