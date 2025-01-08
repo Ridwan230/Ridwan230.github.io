@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"}
+<!-- ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"} -->
 I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black;"> Research Engineer </span> at the Intelligent Visualization Lab at York University, with a <span style="background-color: #fff8c2; color: black;">Bachelor's degree in Computer Science and Engineering</span> from the Islamic University of Technology. My research interests lie at the <span style="background-color: #fff8c2; color: black;">intersection of NLP and HCI</span>, where I focus on creating intelligent, accessible interfaces that bridge human and machine communication. My work spans areas like language model evaluation, user-centered design, and data visualization. Recently, I published a paper on poem summarization at <span style="background-color: #fff8c2; color: black;">EMNLP 2023</span>, introducing a unique dataset and benchmark for understanding creative language in AI. Here, you’ll find details about my projects, publications, and ongoing research aimed at advancing adaptive and inclusive technologies.
 
 <!-- Research interests
