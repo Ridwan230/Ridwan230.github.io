@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <!-- ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"} -->
-I am Ridwan Mahbub, an AI enthusiast highly interested in NLP research. As a MSc student at York University, I am currently working on ethical data visualization techniques using LLMs, supervised by <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. I have completed my Bachelor's degree in Computer Science and Engineering from the Islamic University of Technology. My research interests lie at the intersection of NLP and Visualization. I am also interested in creative language processing and applications. Recently, I published a paper on a new NLP task Poem Summarization at EMNLP 2023, where we introduced a novel dataset and benchmark for understanding creative language in language models. 
+I am Ridwan Mahbub, an AI enthusiast highly interested in NLP research. As a MSc student at York University, I am currently working on ethical data visualization techniques using LLMs, supervised by <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. I have completed my Bachelor's degree in Computer Science and Engineering from the Islamic University of Technology. My research interests lie at the intersection of NLP and Visualization. I am also interested in creative language processing. Recently, I published a paper on a new NLP task Poem Summarization at EMNLP 2023, where we introduced a novel dataset and benchmark for understanding creative language in language models. 
 
-I am looking for internship opportunities in Summer 2025. 
+I am seeking internship opportunities for Summer 2025. 
 
 <!-- Research interests
 ======
