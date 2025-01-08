@@ -16,7 +16,7 @@ I am Samiha Shafiq Anuva, a <span style="background-color: #fff8c2; color: black
 <i class="fa-solid fa-square;" style="font-size:12px;"> </i>  HCI  <span style="width:50px;"></span>     <i class="fa-solid fa-square" style="font-size:12px;"></i>   NLP      <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Dta Visualization     <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Machine Learning -->
 
 
-Selected Publication
+Publications
 ======
 
 <ol>
