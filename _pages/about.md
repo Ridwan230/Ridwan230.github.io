@@ -10,7 +10,7 @@ redirect_from:
 <!-- ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"} -->
 I am Ridwan Mahbub, an AI enthusiast with high interest in NLP research. As an MSc student at York University, I am currently working on ethical data visualization techniques using LLMs, supervised by <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. I have completed my Bachelor's degree in Computer Science and Engineering from the Islamic University of Technology. My research interests lie at the intersection of NLP and Visualization. I am also interested in creative language processing. Recently, I published a paper on a new NLP task Poem Summarization at EMNLP 2023, where we introduced a novel dataset and benchmark for understanding creative language in language models. 
 
-I am currently working as a Student Research Intern at National Research Council (NRC), Canada. 
+I am currently working as a Graduate Research Intern at National Research Council (NRC), Canada. 
 
 <!-- Research interests
 ======
@@ -24,9 +24,39 @@ Publications
 <ol>
 
 <li>
-<a href="https://aclanthology.org/2023.emnlp-main.920/">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
+<a href="https://arxiv.org/pdf/2508.09450?">From Charts to Fair Narratives: Uncovering and Mitigating Geo-Economic Biases in Chart-to-Text</a>  <br/>
 
-<Span style="font-size:90% ; color:#a5a8a8">Publication date: December, 2023 </span> <br/>
+<Span style="font-size:90%; "> <b>Conference: Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) </b> </span> <br/>
+
+This paper systematically benchmarks vision-language models on chart-to-text generation and uncovers systemic geo-economic biases, showing that models tend to favor high-income countries in their summaries even when describing the same chart
+</li>
+
+<li>
+<a href="https://arxiv.org/pdf/2508.09716/">The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models</a>  <br/>
+
+<Span style="font-size:90%; "> <b>Conference: 2025 IEEE Visualization and Visual Analytics (VIS) </b> </span> <br/>
+
+This paper introduces the first large-scale benchmark of vision-language models on deceptive chart designs, revealing that even state-of-the-art models are vulnerable to subtle visual distortions.
+</li>
+
+<li>
+<a href="https://arxiv.org/pdf/2508.17398">DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards</a>  <br/>
+
+<Span style="font-size:90%; "> <b>PrePrint</b> </span> <br/>
+
+This paper introduces DashboardQA, the first benchmark for evaluating the capabilities of vision-language models in interactive dashboard navigation through question answering
+</li>
+
+<li>
+<a href="https://arxiv.org/pdf/2505.08468?">Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?</a>  <br/>
+
+<Span style="font-size:90%; "> <b>CProceedings of the 2025 Annual Meeting of the Association for Computational Linguistics (ACL), Industry Track </b> </span> <br/>
+
+This paper presents the first comprehensive study of open-source vision-language models as automatic judges for chart comprehension and reasoning, highlighting their potential as cost-effective evaluators while also exposing persistent biases
+</li>
+
+<li>
+<a href="https://aclanthology.org/2023.emnlp-main.920/">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
 
 <Span style="font-size:90%; "> <b>Conference: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) </b> </span> <br/>
 
@@ -36,8 +66,6 @@ and highlights numerous short-comings of prevalent text summarization models.
 
 <li>
 <a href="https://ieeexplore.ieee.org/abstract/document/10056104">A comparative analysis of efficient convolutional neural network based methods for plant disease classification</a> <br/>
-
-<Span style="font-size:90%; color:#a5a8a8"> Publication date: December, 2022 </span> <br/>
 
 <span style="font-size:90%; "> <b>Conference: 2022 25th international conference on computer and information technology (ICCIT) </b> </span> <br/>
 The work delves into the complexities of plant disease classification, covering aspects such as available
