@@ -28,7 +28,7 @@ Publications
 
 <Span style="font-size:90%; "> <b>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) </b> </span> <br/>
 
-This paper systematically benchmarks vision-language models on chart-to-text generation and uncovers systemic geo-economic biases, showing that models tend to favor high-income countries in their summaries even when describing the same chart
+This paper systematically benchmarks vision-language models on chart-to-text generation and uncovers systemic geo-economic biases, showing that models tend to favor high-income countries in their summaries even when describing the same chart.
 </li>
 
 <li>
@@ -44,7 +44,7 @@ This paper introduces the first large-scale benchmark of vision-language models 
 
 <Span style="font-size:90%; "> <b>PrePrint</b> </span> <br/>
 
-This paper introduces DashboardQA, the first benchmark for evaluating the capabilities of vision-language models in interactive dashboard navigation through question answering
+This paper introduces DashboardQA, the first benchmark for evaluating the capabilities of vision-language models in interactive dashboard navigation through question answering.
 </li>
 
 <li>
@@ -52,11 +52,11 @@ This paper introduces DashboardQA, the first benchmark for evaluating the capabi
 
 <Span style="font-size:90%; "> <b>Proceedings of the 2025 Annual Meeting of the Association for Computational Linguistics (ACL), Industry Track </b> </span> <br/>
 
-This paper presents the first comprehensive study of open-source vision-language models as automatic judges for chart comprehension and reasoning, highlighting their potential as cost-effective evaluators while also exposing persistent biases
+This paper presents the first comprehensive study of open-source vision-language models as automatic judges for chart comprehension and reasoning, highlighting their potential as cost-effective evaluators while also exposing persistent biases.
 </li>
 
 <li>
-<a href="https://aclanthology.org/2023.emnlp-main.920/">Unveiling the essence of poetry: Introducing a comprehensive dataset and benchmark for poem summarization</a>  <br/>
+<a href="https://aclanthology.org/2023.emnlp-main.920/">Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization</a>  <br/>
 
 <Span style="font-size:90%; "> <b>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) </b> </span> <br/>
 
@@ -65,9 +65,9 @@ and highlights numerous short-comings of prevalent text summarization models.
 </li>
 
 <li>
-<a href="https://ieeexplore.ieee.org/abstract/document/10056104">A comparative analysis of efficient convolutional neural network based methods for plant disease classification</a> <br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/10056104">A Comparative Analysis of Efficient Convolutional Neural Network Based Methods for Plant Disease Classification</a> <br/>
 
-<span style="font-size:90%; "> <b>2022 25th international conference on computer and information technology (ICCIT) </b> </span> <br/>
+<span style="font-size:90%; "> <b>2022 25th International Conference on Computer and Information Technology (ICCIT) </b> </span> <br/>
 The work delves into the complexities of plant disease classification, covering aspects such as available
 datasets, transfer learning, and a comparative analysis of lightweight CNN models for leaf disease.
 </li>
