@@ -22,11 +22,12 @@ News
 <ul class="fa-ul">
   <li>
     <span class="fa-li"><i class="fa-solid fa-star"></i></span>
-    <strong>Sept 16, 2025:</strong> Our paper on the effects of misleading visualization on VLMs received a <b>Best Short Paper Award</b> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i> at IEEE VIS 2025 — check it out <a href="https://arxiv.org/abs/2508.09716">here</a>!
+    Sept 16, 2025: Our work received the <b>Best Short Paper Award</b> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i> at IEEE VIS 2025. The paper explores how misleading visualizations impact vision-language models — read it <a href="https://arxiv.org/abs/2508.09716">here</a>!
   </li>
   <li>
     <span class="fa-li"><i class="fa-solid fa-star"></i></span>
-    <strong>Sept 1, 2025:</strong> I received an internship opportunity at the <b>National Research Council Canada</b> <img src="images/nrc-logo.png" alt="NRC logo" style="height:25px; vertical-align:middle; margin-left:4px;">. I’ll be working on domain-knowledge infusion into LLMs for cybersecurity tasks.
+    Sept 1, 2025: I received an internship at the <b>National Research Council Canada</b> <img src="images/nrc-logo.png" alt="NRC logo" style="height:25px; vertical-align:middle; margin-left:4px;"> 
+    I’ll be working on domain-knowledge infusion into LLMs for cybersecurity tasks.
   </li>
 </ul>
 
