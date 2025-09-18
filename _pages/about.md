@@ -26,7 +26,7 @@ News
   </li>
   <li>
     <span class="fa-li"><i class="fa-solid fa-star"></i></span>
-    Sept 1, 2025: I received an internship at the <b>National Research Council Canada</b> <img src="images/nrc-logo.png" alt="NRC logo" style="height:25px; vertical-align:middle; margin-left:4px;"> 
+    Sept 10, 2025: I am staring my internship at the <b>National Research Council Canada</b> <img src="images/nrc-logo.png" alt="NRC logo" style="height:25px; vertical-align:middle; margin-left:4px;"> 
     I’ll be working on domain-knowledge infusion into LLMs for cybersecurity tasks.
   </li>
 </ul>
