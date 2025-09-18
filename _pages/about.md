@@ -8,15 +8,27 @@ redirect_from:
 ---
 
 <!-- ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"} -->
-I am Ridwan Mahbub, an AI enthusiast with high interest in NLP research. As an MSc student at York University, I am currently working on ethical data visualization techniques using LLMs, supervised by <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. I have completed my Bachelor's degree in Computer Science and Engineering from the Islamic University of Technology. My research interests lie at the intersection of NLP and Visualization. I am currently working on leveraging Large Vision-Language Models to generate animated data videos.
-
-I am currently working as a <b> Graduate Research Intern </b> at National Research Council (NRC), Canada, where I work on infusion of domain-specific knowledge into LLMs for cybersecurity tasks.
+I am Ridwan Mahbub, an AI enthusiast with high interest in NLP research. As an MSc student at York University, I am currently working on ethical data visualization techniques using LLMs, supervised by <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. My research interests lie at the intersection of NLP and Visualization. I am currently working on leveraging Large Vision-Language Models to generate animated data videos.
 
 <!-- Research interests
 ======
 
 <i class="fa-solid fa-square;" style="font-size:12px;"> </i>  HCI  <span style="width:50px;"></span>     <i class="fa-solid fa-square" style="font-size:12px;"></i>   NLP      <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Dta Visualization     <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Machine Learning -->
 
+
+News
+======
+
+<ul class="fa-ul">
+  <li>
+    <span class="fa-li"><i class="fa-solid fa-star"></i></span>
+    <strong>Sept 16, 2025:</strong> Our paper received a <b>Best Paper Award</b> at <b>IEEE VIS</b> — check it out! <i class="fa-solid fa-trophy" style="color:#d4af37;"></i>
+  </li>
+  <li>
+    <span class="fa-li"><i class="fa-solid fa-star"></i></span>
+    <strong>Sept 1, 2025:</strong> I received an internship opportunity at the National Research Council Canada (<b>NRC</b><img src="images/nrc-logo.png" alt="NRC logo" style="height:14px; vertical-align:middle; margin-left:4px;">). I’ll be working on domain-knowledge infusion into LLMs for cybersecurity tasks.
+  </li>
+</ul>
 
 Publications
 ======
