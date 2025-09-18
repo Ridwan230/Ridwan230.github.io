@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"} -->
-I am Ridwan Mahbub, an AI researcher with a strong interest in NLP. I am a 2nd-year MSc student in Computer Science at York University, working under the supervision of <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a> on developing ethical data visualization techniques powered by LLMs. My research lies at the intersection of NLP and visualization, with a current focus on leveraging large vision-language models to generate animated data videos.
+Hello there! My name is Ridwan Mahbub. I am a 2nd-year MSc student in Computer Science at York University, Canada, working under the supervision of <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. My research focuses on developing ethical data visualization techniques powered by Large Language Models. Currently, I'm working on leveraging Vision Language Models to generate animated data videos.
 
 <!-- Research interests
 ======
