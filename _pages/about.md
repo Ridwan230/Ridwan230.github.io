@@ -22,7 +22,7 @@ News
 <ul class="fa-ul">
   <li>
     <span class="fa-li"><i class="fa-solid fa-star"></i></span>
-    <strong>Sept 16, 2025:</strong> Our paper on the effects of misleading visualization on VLMs received a <b>Best Short Paper Award</b> at <b>IEEE VIS 2025</b> — check it out <a href="https://arxiv.org/abs/2508.09716">here</a>! <i class="fa-solid fa-trophy" style="color:#d4af37;"></i>
+    <strong>Sept 16, 2025:</strong> Our paper on the effects of misleading visualization on VLMs received a <b>Best Short Paper Award</b> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i> at <b>IEEE VIS 2025</b> — check it out <a href="https://arxiv.org/abs/2508.09716">here</a>!
   </li>
   <li>
     <span class="fa-li"><i class="fa-solid fa-star"></i></span>
