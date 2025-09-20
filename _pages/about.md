@@ -16,7 +16,7 @@ Hello there! My name is Ridwan Mahbub. I am a 2nd-year MSc student in Computer S
 <i class="fa-solid fa-square;" style="font-size:12px;"> </i>  HCI  <span style="width:50px;"></span>     <i class="fa-solid fa-square" style="font-size:12px;"></i>   NLP      <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Dta Visualization     <i class="fa-solid fa-square" style="font-size: 12px;"></i>   Machine Learning -->
 
 
-News
+Updates
 ======
 
 <ul class="fa-ul">
