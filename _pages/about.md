@@ -55,9 +55,9 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
 <li>
   <a href="https://arxiv.org/abs/2508.09716">
     The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models
-  </a><br/>
+  </a> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i><br/>
   <span >
-    <b>IEEE VIS 2025 <i class="fa-solid fa-trophy" style="color:#d4af37;"></i></b>
+    <b>IEEE VIS 2025</b>
   </span><br/>
   <span >
     Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar,
