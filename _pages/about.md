@@ -22,7 +22,7 @@ Updates
 <ul class="fa-ul">
   <li>
     <span class="fa-li"><i class="fa-solid fa-star"></i></span>
-    Sept 16, 2025: Our work received the <b>Best Short Paper Award</b> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i> at <a href="https://ieeevis.org/year/2025/info/awards/best-paper-awards#:~:text=The%20Perils%20of%20Chart%20Deception%3A%20How%20Misleading%20Visualizations%20Affect%20Vision%2DLanguage%20Models">IEEE VIS 2025</a>
+    Sept 16, 2025: Our work received the <b>Best Short Paper Award</b> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i> at <a href="https://www.yorku.ca/laps/newsroom/2025/12/01/professor-enamul-hoque-prince-and-team-win-best-paper-award-at-ieee-vis/">IEEE VIS 2025</a>
   </li>
   <li>
     <span class="fa-li"><i class="fa-solid fa-star"></i></span>
@@ -41,10 +41,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://aclanthology.org/2025.emnlp-main.1472/">
     From Charts to Fair Narratives: Uncovering and Mitigating Geo-Economic Biases in Chart-to-Text
   </a><br/>
-  <span style="font-size:90%;">
-    <b>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025</b>
+  <span >
+    <b>EMNLP 2025</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Ridwan Mahbub, Mohammed Saidul Islam, Mir Tafseer Nayeem,
     Md Tahmid Rahman Laskar, Mizanur Rahman, Shafiq Joty, Enamul Hoque
   </span>
@@ -56,10 +56,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://arxiv.org/abs/2508.09716">
     The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models
   </a><br/>
-  <span style="font-size:90%;">
-    <b>IEEE Visualization and Visual Analytics (VIS), 2025 (<b>Best Short Paper Award</b> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i>)</b>
+  <span >
+    <b>IEEE VIS 2025 <i class="fa-solid fa-trophy" style="color:#d4af37;"></i></b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar,
     Mizanur Rahman, Mir Tafseer Nayeem, Enamul Hoque
   </span>
@@ -71,10 +71,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://arxiv.org/abs/2508.17398">
     DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards
   </a><br/>
-  <span style="font-size:90%;">
+  <span >
     <b>Preprint, 2025</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang,
     Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed,
     Md Rizwan Parvez, Enamul Hoque, Shafiq Joty
@@ -87,10 +87,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://arxiv.org/abs/2510.04023">
     LLM-Based Data Science Agents: A Survey of Capabilities, Challenges, and Future Directions
   </a><br/>
-  <span style="font-size:90%;">
+  <span >
     <b>Preprint, 2025</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Mizanur Rahman, Amran Bhuiyan, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, Ridwan Mahbub, Ahmed Masry, Shafiq Joty, Enamul Hoque
   </span>
 </li>
@@ -101,10 +101,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://aclanthology.org/2025.acl-industry.83/">
     Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?
   </a><br/>
-  <span style="font-size:90%;">
-    <b>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL): Industry Track, 2025</b>
+  <span >
+    <b>ACL (Industry Track) 2025</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
     Ahmed Masry, Mizanur Rahman, Amran Bhuiyan, Mir Tafseer Nayeem,
     Shafiq Joty, Enamul Hoque, Jimmy Huang
@@ -117,10 +117,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://aclanthology.org/2025.emnlp-industry.134/">
     Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices
   </a><br/>
-  <span style="font-size:90%;">
-    <b>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, 2025</b>
+  <span >
+    <b>EMNLP (Industry Track) 2025</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
     Ahmed Masry, Mizanur Rahman, Mir Tafseer Nayeem,
     Shafiq Joty, Enamul Hoque
@@ -133,10 +133,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://ieeexplore.ieee.org/abstract/document/11204323">
     Learning or Cheating? Assessing Data Contamination in Large Vision-Language Models
   </a><br/>
-  <span style="font-size:90%;">
-    <b>IEEE Workshop on Machine Learning for Signal Processing (MLSP), 2025</b>
+  <span >
+    <b>IEEE MLSP, 2025</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar,
     Mir Tafseer Nayeem, Mizanur Rahman, Enamul Hoque
   </span>
@@ -148,10 +148,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://aclanthology.org/2023.emnlp-main.920/">
     Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization
   </a><br/>
-  <span style="font-size:90%;">
-    <b>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</b>
+  <span >
+    <b>EMNLP 2023</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Ridwan Mahbub, Ifrad Towhid Khan, Samiha Shafiq Anuva,
     Md Shihab Shahriar, Md Tahmid Rahman Laskar, Sabbir Ahmed
   </span>
@@ -163,10 +163,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <a href="https://ieeexplore.ieee.org/abstract/document/10056104">
     A Comparative Analysis of Efficient Convolutional Neural Network Based Methods for Plant Disease Classification
   </a><br/>
-  <span style="font-size:90%;">
-    <b>25th International Conference on Computer and Information Technology, 2022</b>
+  <span >
+    <b>ICCIT 2022</b>
   </span><br/>
-  <span style="font-size:90%;">
+  <span >
     Ridwan Mahbub, Samiha Shafiq Anuva, Ifrad Towhid Khan, Zahidul Islam
   </span>
 </li>
