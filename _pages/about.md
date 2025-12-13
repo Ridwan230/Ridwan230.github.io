@@ -36,55 +36,161 @@ Publications
 <ol>
 
 <li>
-<a href="https://arxiv.org/abs/2508.09450">From Charts to Fair Narratives: Uncovering and Mitigating Geo-Economic Biases in Chart-to-Text</a>  <br/>
-
-<Span style="font-size:90%; "> <b>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) </b> </span> <br/>
-
-This paper systematically benchmarks vision-language models on chart-to-text generation and uncovers systemic geo-economic biases, showing that models tend to favor high-income countries in their summaries even when describing the same chart.
+  <a href="https://aclanthology.org/2025.emnlp-main.1472/">
+    From Charts to Fair Narratives: Uncovering and Mitigating Geo-Economic Biases in Chart-to-Text
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Ridwan Mahbub, Mohammed Saidul Islam, Mir Tafseer Nayeem,
+    Md Tahmid Rahman Laskar, Mizanur Rahman, Shafiq Joty, Enamul Hoque
+  </span><br/>
+  This paper systematically benchmarks vision-language models on chart-to-text generation and uncovers
+  systemic geo-economic biases, showing that models tend to favor high-income countries even when
+  describing identical charts.
 </li>
 
+<br/>
+
 <li>
-<a href="https://arxiv.org/abs/2508.09716">The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models</a>  <br/>
-
-<Span style="font-size:90%; "> <b>2025 IEEE Visualization and Visual Analytics (VIS) </b> </span> <br/>
-
-This paper introduces the first large-scale benchmark of vision-language models on deceptive chart designs, revealing that even state-of-the-art models are vulnerable to subtle visual distortions.
+  <a href="https://arxiv.org/abs/2508.09716">
+    The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>IEEE Visualization and Visual Analytics (VIS) 2025 — Best Short Paper Award</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar,
+    Mizanur Rahman, Mir Tafseer Nayeem, Enamul Hoque
+  </span><br/>
+  This paper introduces the first large-scale benchmark of deceptive chart designs and shows that
+  state-of-the-art vision-language models are highly vulnerable to subtle visual distortions.
 </li>
 
+<br/>
+
 <li>
-<a href="https://arxiv.org/abs/2508.17398">DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards</a>  <br/>
-
-<Span style="font-size:90%; "> <b>PrePrint</b> </span> <br/>
-
-This paper introduces DashboardQA, the first benchmark for evaluating the capabilities of vision-language models in interactive dashboard navigation through question answering.
+  <a href="https://arxiv.org/abs/2508.17398">
+    DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>Preprint</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang,
+    Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed,
+    Md Rizwan Parvez, Enamul Hoque, Shafiq Joty
+  </span><br/>
+  This work introduces DashboardQA, the first benchmark for evaluating multimodal agents on
+  interactive dashboard navigation and question answering.
 </li>
 
+<br/>
+
 <li>
-<a href="https://arxiv.org/abs/2505.08468">Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?</a>  <br/>
-
-<Span style="font-size:90%; "> <b>Proceedings of the 2025 Annual Meeting of the Association for Computational Linguistics (ACL), Industry Track </b> </span> <br/>
-
-This paper presents the first comprehensive study of open-source vision-language models as automatic judges for chart comprehension and reasoning, highlighting their potential as cost-effective evaluators while also exposing persistent biases.
+  <a href="https://arxiv.org/abs/2510.04023">
+    LLM-Based Data Science Agents: A Survey of Capabilities, Challenges, and Future Directions
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>Preprint</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    (Author list available in manuscript)
+  </span><br/>
+  This survey systematically reviews LLM-based data science agents, mapping systems across the
+  data science lifecycle and identifying key gaps in trust, deployment, and business understanding.
 </li>
 
+<br/>
+
 <li>
-<a href="https://aclanthology.org/2023.emnlp-main.920/">Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization</a>  <br/>
-
-<Span style="font-size:90%; "> <b>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) </b> </span> <br/>
-
-This work benchmarks the creative language understanding and summarizing capacity of language models
-and highlights numerous short-comings of prevalent text summarization models.
+  <a href="https://aclanthology.org/2025.acl-industry.83/">
+    Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>ACL 2025, Industry Track</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
+    Ahmed Masry, Mizanur Rahman, Amran Bhuiyan, Mir Tafseer Nayeem,
+    Shafiq Joty, Enamul Hoque, Jimmy Huang
+  </span><br/>
+  This paper evaluates open-source vision-language models as automated judges for chart reasoning,
+  highlighting both their promise and persistent bias issues.
 </li>
 
-<li>
-<a href="https://ieeexplore.ieee.org/abstract/document/10056104">A Comparative Analysis of Efficient Convolutional Neural Network Based Methods for Plant Disease Classification</a> <br/>
+<br/>
 
-<span style="font-size:90%; "> <b>2022 25th International Conference on Computer and Information Technology (ICCIT) </b> </span> <br/>
-The work delves into the complexities of plant disease classification, covering aspects such as available
-datasets, transfer learning, and a comparative analysis of lightweight CNN models for leaf disease.
+<li>
+  <a href="https://aclanthology.org/2025.emnlp-industry.134/">
+    Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>EMNLP 2025, Industry Track</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
+    Ahmed Masry, Mizanur Rahman, Mir Tafseer Nayeem,
+    Shafiq Joty, Enamul Hoque
+  </span><br/>
+  This paper introduces ChartJudge-2B, a compact 2B-parameter vision-language model for chart
+  evaluation, achieving near-7B performance while cutting inference cost and time by over half.
+</li>
+
+<br/>
+
+<li>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11204323">
+    Learning or Cheating? Assessing Data Contamination in Large Vision-Language Models
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>IEEE Workshop on Machine Learning for Signal Processing (MLSP) 2025</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar,
+    Mir Tafseer Nayeem, Mizanur Rahman, Enamul Hoque
+  </span><br/>
+  This paper presents a systematic framework for detecting data contamination in large
+  vision-language models, revealing continued reliance on memorized examples rather than
+  genuine multimodal reasoning.
+</li>
+
+<br/>
+
+<li>
+  <a href="https://aclanthology.org/2023.emnlp-main.920/">
+    Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>EMNLP 2023</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Ridwan Mahbub, Ifrad Towhid Khan, <b>Samiha Shafiq Anuva</b>,
+    Md Shihab Shahriar, Md Tahmid Rahman Laskar, Sabbir Ahmed
+  </span><br/>
+  This work benchmarks creative language understanding and summarization, exposing key limitations
+  of existing text summarization models on poetry.
+</li>
+
+<br/>
+
+<li>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10056104">
+    A Comparative Analysis of Efficient Convolutional Neural Network Based Methods for Plant Disease Classification
+  </a><br/>
+  <span style="font-size:90%;">
+    <b>ICCIT 2022</b>
+  </span><br/>
+  <span style="font-size:90%;">
+    Ridwan Mahbub, <b>Samiha Shafiq Anuva</b>, Ifrad Towhid Khan, Zahidul Islam
+  </span><br/>
+  This paper presents a comparative analysis of lightweight CNN architectures for plant
+  disease classification, examining datasets, transfer learning strategies, and efficiency trade-offs.
 </li>
 
 </ol>
+
 
 
 <!-- Site-wide configuration
