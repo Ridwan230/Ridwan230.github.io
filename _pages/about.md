@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <!-- ![Illustration of learning process of AI](/images/robot2.jpg){: .align-right width="300px"} -->
-Hello there! My name is Ridwan Mahbub. I am a 2nd-year MSc student in Computer Science at York University, Canada, working under the supervision of <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. My research focuses on developing ethical data visualization techniques powered by Large Language Models. Currently, I'm working on leveraging Vision Language Models to generate animated data videos.
+Hello there! My name is Ridwan Mahbub. I am a 2nd-year MSc student in Computer Science at York University, Canada, working under the supervision of <a href="https://www.yorku.ca/enamulh/">Dr. Enamul Hoque</a>. My research focuses on developing ethical data visualization techniques powered by Large Language Models. Currently, I'm working on leveraging Vision Language Models to generate animated data videos. I'm also working on domain knowledge infusion into LLMs at the National Research Council (NRC),  Canada.
 
 <!-- Research interests
 ======
@@ -123,7 +123,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   <span >
     Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
     Ahmed Masry, Mizanur Rahman, Mir Tafseer Nayeem,
-    Shafiq Joty, Enamul Hoque
+    Shafiq Joty, Enamul Hoque, Jimmy Huang
   </span>
 </li>
 
@@ -134,11 +134,10 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     Learning or Cheating? Assessing Data Contamination in Large Vision-Language Models
   </a><br/>
   <span >
-    <b>IEEE MLSP, 2025</b>
+    <b>IEEE MLSP 2025</b>
   </span><br/>
   <span >
-    Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar,
-    Mir Tafseer Nayeem, Mizanur Rahman, Enamul Hoque
+    Ahmed Masry, Mahir Ahmed, Ridwan Mahbub
   </span>
 </li>
 
