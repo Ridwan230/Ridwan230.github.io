@@ -33,6 +33,8 @@ Updates
 Publications
 ======
 
+You can find a full list of my papers on my <a href="https://scholar.google.ca/citations?user=LKMc1l8AAAAJ&hl=en">Google Scholar</a>.
+
 <ol>
 
 <li>
@@ -40,15 +42,12 @@ Publications
     From Charts to Fair Narratives: Uncovering and Mitigating Geo-Economic Biases in Chart-to-Text
   </a><br/>
   <span style="font-size:90%;">
-    <b>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</b>
+    <b>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025</b>
   </span><br/>
   <span style="font-size:90%;">
     Ridwan Mahbub, Mohammed Saidul Islam, Mir Tafseer Nayeem,
     Md Tahmid Rahman Laskar, Mizanur Rahman, Shafiq Joty, Enamul Hoque
-  </span><br/>
-  This paper systematically benchmarks vision-language models on chart-to-text generation and uncovers
-  systemic geo-economic biases, showing that models tend to favor high-income countries even when
-  describing identical charts.
+  </span>
 </li>
 
 <br/>
@@ -58,14 +57,12 @@ Publications
     The Perils of Chart Deception: How Misleading Visualizations Affect Vision-Language Models
   </a><br/>
   <span style="font-size:90%;">
-    <b>IEEE Visualization and Visual Analytics (VIS) 2025 — Best Short Paper Award</b>
+    <b>IEEE Visualization and Visual Analytics (VIS), 2025 (<b>Best Short Paper Award</b> <i class="fa-solid fa-trophy" style="color:#d4af37;"></i>)</b>
   </span><br/>
   <span style="font-size:90%;">
     Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar,
     Mizanur Rahman, Mir Tafseer Nayeem, Enamul Hoque
-  </span><br/>
-  This paper introduces the first large-scale benchmark of deceptive chart designs and shows that
-  state-of-the-art vision-language models are highly vulnerable to subtle visual distortions.
+  </span>
 </li>
 
 <br/>
@@ -75,15 +72,13 @@ Publications
     DashboardQA: Benchmarking Multimodal Agents for Question Answering on Interactive Dashboards
   </a><br/>
   <span style="font-size:90%;">
-    <b>Preprint</b>
+    <b>Preprint, 2025</b>
   </span><br/>
   <span style="font-size:90%;">
     Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang,
     Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed,
     Md Rizwan Parvez, Enamul Hoque, Shafiq Joty
-  </span><br/>
-  This work introduces DashboardQA, the first benchmark for evaluating multimodal agents on
-  interactive dashboard navigation and question answering.
+  </span>
 </li>
 
 <br/>
@@ -93,13 +88,11 @@ Publications
     LLM-Based Data Science Agents: A Survey of Capabilities, Challenges, and Future Directions
   </a><br/>
   <span style="font-size:90%;">
-    <b>Preprint</b>
+    <b>Preprint, 2025</b>
   </span><br/>
   <span style="font-size:90%;">
-    (Author list available in manuscript)
-  </span><br/>
-  This survey systematically reviews LLM-based data science agents, mapping systems across the
-  data science lifecycle and identifying key gaps in trust, deployment, and business understanding.
+    Mizanur Rahman, Amran Bhuiyan, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, Ridwan Mahbub, Ahmed Masry, Shafiq Joty, Enamul Hoque
+  </span>
 </li>
 
 <br/>
@@ -109,15 +102,13 @@ Publications
     Judging the Judges: Can Large Vision-Language Models Fairly Evaluate Chart Comprehension and Reasoning?
   </a><br/>
   <span style="font-size:90%;">
-    <b>ACL 2025, Industry Track</b>
+    <b>Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL): Industry Track, 2025</b>
   </span><br/>
   <span style="font-size:90%;">
     Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
     Ahmed Masry, Mizanur Rahman, Amran Bhuiyan, Mir Tafseer Nayeem,
     Shafiq Joty, Enamul Hoque, Jimmy Huang
-  </span><br/>
-  This paper evaluates open-source vision-language models as automated judges for chart reasoning,
-  highlighting both their promise and persistent bias issues.
+  </span>
 </li>
 
 <br/>
@@ -127,15 +118,13 @@ Publications
     Deploying Tiny LVLM Judges for Real-World Evaluation of Chart Models: Lessons Learned and Best Practices
   </a><br/>
   <span style="font-size:90%;">
-    <b>EMNLP 2025, Industry Track</b>
+    <b>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP): Industry Track, 2025</b>
   </span><br/>
   <span style="font-size:90%;">
     Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
     Ahmed Masry, Mizanur Rahman, Mir Tafseer Nayeem,
     Shafiq Joty, Enamul Hoque
-  </span><br/>
-  This paper introduces ChartJudge-2B, a compact 2B-parameter vision-language model for chart
-  evaluation, achieving near-7B performance while cutting inference cost and time by over half.
+  </span>
 </li>
 
 <br/>
@@ -145,15 +134,12 @@ Publications
     Learning or Cheating? Assessing Data Contamination in Large Vision-Language Models
   </a><br/>
   <span style="font-size:90%;">
-    <b>IEEE Workshop on Machine Learning for Signal Processing (MLSP) 2025</b>
+    <b>IEEE Workshop on Machine Learning for Signal Processing (MLSP), 2025</b>
   </span><br/>
   <span style="font-size:90%;">
     Mohammed Saidul Islam, Ridwan Mahbub, Md Tahmid Rahman Laskar,
     Mir Tafseer Nayeem, Mizanur Rahman, Enamul Hoque
-  </span><br/>
-  This paper presents a systematic framework for detecting data contamination in large
-  vision-language models, revealing continued reliance on memorized examples rather than
-  genuine multimodal reasoning.
+  </span>
 </li>
 
 <br/>
@@ -163,14 +149,12 @@ Publications
     Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization
   </a><br/>
   <span style="font-size:90%;">
-    <b>EMNLP 2023</b>
+    <b>Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023</b>
   </span><br/>
   <span style="font-size:90%;">
-    Ridwan Mahbub, Ifrad Towhid Khan, <b>Samiha Shafiq Anuva</b>,
+    Ridwan Mahbub, Ifrad Towhid Khan, Samiha Shafiq Anuva,
     Md Shihab Shahriar, Md Tahmid Rahman Laskar, Sabbir Ahmed
-  </span><br/>
-  This work benchmarks creative language understanding and summarization, exposing key limitations
-  of existing text summarization models on poetry.
+  </span>
 </li>
 
 <br/>
@@ -180,13 +164,11 @@ Publications
     A Comparative Analysis of Efficient Convolutional Neural Network Based Methods for Plant Disease Classification
   </a><br/>
   <span style="font-size:90%;">
-    <b>ICCIT 2022</b>
+    <b>25th International Conference on Computer and Information Technology, 2022</b>
   </span><br/>
   <span style="font-size:90%;">
-    Ridwan Mahbub, <b>Samiha Shafiq Anuva</b>, Ifrad Towhid Khan, Zahidul Islam
-  </span><br/>
-  This paper presents a comparative analysis of lightweight CNN architectures for plant
-  disease classification, examining datasets, transfer learning strategies, and efficiency trade-offs.
+    Ridwan Mahbub, Samiha Shafiq Anuva, Ifrad Towhid Khan, Zahidul Islam
+  </span>
 </li>
 
 </ol>
