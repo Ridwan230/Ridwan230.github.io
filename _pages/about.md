@@ -45,7 +45,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>EMNLP 2025</b>
   </span><br/>
   <span >
-    Ridwan Mahbub, Mohammed Saidul Islam, Mir Tafseer Nayeem,
+    <b>Ridwan Mahbub</b>, Mohammed Saidul Islam, Mir Tafseer Nayeem,
     Md Tahmid Rahman Laskar, Mizanur Rahman, Shafiq Joty, Enamul Hoque
   </span>
 </li>
@@ -60,7 +60,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>IEEE VIS 2025</b>
   </span><br/>
   <span >
-    Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar,
+    <b>Ridwan Mahbub</b>, Mohammed Saidul Islam, Md Tahmid Rahman Laskar,
     Mizanur Rahman, Mir Tafseer Nayeem, Enamul Hoque
   </span>
 </li>
@@ -76,7 +76,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
   </span><br/>
   <span >
     Aaryaman Kartha, Ahmed Masry, Mohammed Saidul Islam, Thinh Lang,
-    Shadikur Rahman, Ridwan Mahbub, Mizanur Rahman, Mahir Ahmed,
+    Shadikur Rahman, <b>Ridwan Mahbub</b>, Mizanur Rahman, Mahir Ahmed,
     Md Rizwan Parvez, Enamul Hoque, Shafiq Joty
   </span>
 </li>
@@ -91,7 +91,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>Preprint, 2025</b>
   </span><br/>
   <span >
-    Mizanur Rahman, Amran Bhuiyan, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, Ridwan Mahbub, Ahmed Masry, Shafiq Joty, Enamul Hoque
+    Mizanur Rahman, Amran Bhuiyan, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, <b>Ridwan Mahbub</b>, Ahmed Masry, Shafiq Joty, Enamul Hoque
   </span>
 </li>
 
@@ -105,7 +105,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>ACL (Industry Track) 2025</b>
   </span><br/>
   <span >
-    Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
+    Md Tahmid Rahman Laskar, Mohammed Saidul Islam, <b>Ridwan Mahbub</b>,
     Ahmed Masry, Mizanur Rahman, Amran Bhuiyan, Mir Tafseer Nayeem,
     Shafiq Joty, Enamul Hoque, Jimmy Huang
   </span>
@@ -121,7 +121,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>EMNLP (Industry Track) 2025</b>
   </span><br/>
   <span >
-    Md Tahmid Rahman Laskar, Mohammed Saidul Islam, Ridwan Mahbub,
+    Md Tahmid Rahman Laskar, Mohammed Saidul Islam, <b>Ridwan Mahbub</b>,
     Ahmed Masry, Mizanur Rahman, Mir Tafseer Nayeem,
     Shafiq Joty, Enamul Hoque, Jimmy Huang
   </span>
@@ -137,7 +137,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>IEEE MLSP 2025</b>
   </span><br/>
   <span >
-    Ahmed Masry, Mahir Ahmed, Ridwan Mahbub
+    Ahmed Masry, Mahir Ahmed, <b>Ridwan Mahbub</b>
   </span>
 </li>
 
@@ -151,7 +151,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>EMNLP 2023</b>
   </span><br/>
   <span >
-    Ridwan Mahbub, Ifrad Towhid Khan, Samiha Shafiq Anuva,
+    <b>Ridwan Mahbub</b>, Ifrad Towhid Khan, Samiha Shafiq Anuva,
     Md Shihab Shahriar, Md Tahmid Rahman Laskar, Sabbir Ahmed
   </span>
 </li>
@@ -166,7 +166,7 @@ You can find a full list of my papers on my <a href="https://scholar.google.ca/c
     <b>ICCIT 2022</b>
   </span><br/>
   <span >
-    Ridwan Mahbub, Samiha Shafiq Anuva, Ifrad Towhid Khan, Zahidul Islam
+    <b>Ridwan Mahbub</b>, Samiha Shafiq Anuva, Ifrad Towhid Khan, Zahidul Islam
   </span>
 </li>
 
